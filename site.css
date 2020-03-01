@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+#h1{
+    color: red;
+    text-align: center;
+}
+
+
+#wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#main {
+    height: 500px;
+        border: 1px solid red; 
+    background-color: white;
+        border-right: 4px solid red;
+        border-left: 4px solid red;   
+}
+
+#main-menu ul {
+    display: list-item ;
+    position: relative;
+    
+}
+
+#header {
+        border: 1px solid red;
+    background-color: white;
+        border-right: 4ps solid red;
+        border-left: 4px solid red;
+}
+
+#footer {
+    height: px;
+        border: 1px solid red;
+    background-color: white; 
+        border-right: 4px solid red;   
+        border-left: 4px solid red;
+}
